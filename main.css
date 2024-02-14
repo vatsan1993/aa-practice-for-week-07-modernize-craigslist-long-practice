@@ -45,3 +45,14 @@ ul{
 ul > li{
   list-style-type: none;
 }
+
+a:visited{
+  color: #800080;
+}
+
+a:hover, a > span:hover{
+  font-weight: bold;
+  color: #800080;
+}
+
+
